@@ -1,4 +1,4 @@
-package ApiTests;
+package api.test;
 
 import data.UserData;
 import io.qameta.allure.Description;
